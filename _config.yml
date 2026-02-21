@@ -1,1 +1,9 @@
+title: Dibya Bhatta
+description: PhD Candidate | Molecular Plant Pathology | Scholarship Mentor
+baseurl: ""
+url: "https://dibyabhatta.github.io"
 
+theme: minima
+
+plugins:
+  - jekyll-feed
